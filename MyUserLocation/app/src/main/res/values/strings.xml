@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyUserLocation</string>
+    <string name="title_activity_thirds">Map</string>
+    <string name="todo">TODO</string>
+    <string name="enter_address_city_or_zip_code">Enter Address, City or Zip Code</string>
+    <string name="Open">NavBar</string>
+    <string name="Close">NavBar</string>
+</resources>
